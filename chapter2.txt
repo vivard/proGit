@@ -1,0 +1,6 @@
+In order to rename a file in Git:
+	git mv file_from file_to
+It is equivalent to running something like this:
+mv file_from file_to
+git rm file_from
+git add file_to
