@@ -15,3 +15,6 @@ is equivalent to
 $ git branch iss53
 $ git checkout iss53
 that is, create a new branch, and then checkout to this branch
+
+
+just one test for the hotfix branch
