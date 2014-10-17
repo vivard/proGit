@@ -1,3 +1,4 @@
+# A line in the testing branch
 # Line for starting the chapter
 In order to rename a file in Git:
 	git mv file_from file_to
@@ -18,3 +19,11 @@ that is, create a new branch, and then checkout to this branch
 
 
 just one test for the hotfix branch
+
+# Tips and Trick
+#   Auto-Completion
+Download the Git source code, and look in the contrib/completion directory;
+there should be a file called git-completion.bash. Copy this file to the 
+home directory, and add this to your .bashrc file:
+	source /usr/local/git/contrib/completion/git-completion.bash
+
