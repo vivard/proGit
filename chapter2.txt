@@ -7,4 +7,11 @@ git rm file_from
 git add file_to
 
 
+# Chapter 3
+For working with branching
+$ git checkout -b iss53
 
+is equivalent to
+$ git branch iss53
+$ git checkout iss53
+that is, create a new branch, and then checkout to this branch
