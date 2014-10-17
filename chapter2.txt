@@ -1,3 +1,4 @@
+# A line in the testing branch
 # Line for starting the chapter
 In order to rename a file in Git:
 	git mv file_from file_to
