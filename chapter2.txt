@@ -27,3 +27,4 @@ there should be a file called git-completion.bash. Copy this file to the
 home directory, and add this to your .bashrc file:
 	source /usr/local/git/contrib/completion/git-completion.bash
 
+# Test for rebase
